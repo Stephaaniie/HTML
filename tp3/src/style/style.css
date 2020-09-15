@@ -1,0 +1,8 @@
+body {font-family: Arial; }
+h1 { color: rgb(133, 173, 248); text-align: center;background-color: rgb(250, 185, 185) ;font-size: 60px;}
+p { color: #333; }
+blockquote { font-style: italic; font-weight: bold; }
+a { text-decoration: none; color: #a9a9a9; }
+a:hover { color: orange; }
+ol { color: limegreen; }
+h2 { color: limegreen; }
