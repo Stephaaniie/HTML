@@ -1,4 +1,4 @@
-# HTML5 y CSS3 :octocat:
+# HTML5 y CSS3 :art: :octocat:
 Trabajos con HTML Y CSS.
 
 ## Funcionalidad :open_file_folder:
