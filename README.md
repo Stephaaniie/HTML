@@ -24,6 +24,7 @@ Trabajos con HTML Y CSS.
 
 - [x] <a href="https://github.com/Stephaaniie/HTML/blob/master/recursos/TP5.pdf" target="_blank">Trabajo Práctico Nº 5 <a>
 
+- [x] <a href="https://github.com/Stephaaniie/HTML/blob/master/recursos/TP6.pdf" target="_blank">Trabajo Práctico Nº 6<a>
 <div style="width: 100%">
  <img width="49.15%" src="https://github.com/Stephaaniie/HTML/blob/master/recursos/front-end.gif"/>
 </div>
